@@ -1,0 +1,9 @@
+{
+  "demo": {
+    "id":123,
+    "firstName": "claude",
+    "lastName": "Joshua",
+    "age": 18,
+    "accountBalance": 0
+  }
+}
